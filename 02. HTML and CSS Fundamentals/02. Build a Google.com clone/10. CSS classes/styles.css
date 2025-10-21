@@ -1,13 +1,13 @@
-div {
+.main {
     margin-top: 100px;
 }
 
-img {
+.logo {
     display: block;
     width: 300px;
 }
 
-input {
+.search {
     display: block;
     width: 400px;
 }

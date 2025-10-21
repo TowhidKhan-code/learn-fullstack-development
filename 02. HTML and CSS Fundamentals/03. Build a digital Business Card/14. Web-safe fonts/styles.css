@@ -1,5 +1,6 @@
 body {
     margin: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     /*
     Challenge:
     Set the font to Verdana.
@@ -7,7 +8,7 @@ body {
 }
 
 .avatar {
-    width: 150px;
+    width: 80px;
 }
 
 .card {

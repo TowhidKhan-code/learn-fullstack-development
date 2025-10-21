@@ -16,10 +16,19 @@ h1, h2, h3, h4, p {
     margin-bottom: 10px;
 }
 
-h2, h4 {
-    background: #EFB0C9;
+#bday-age{
+background: #EFB0C9;
+padding: 5px 10px;
+border-radius: 5px;
+margin-bottom: 10px;
+margin-top: 5px;
 }
-
+#bday-date {
+    margin: 0;
+background: #EFB0C9;
+padding: 5px 10px;
+border-radius: 5px;
+}
 #header {
     display: flex;
     flex-direction: column;

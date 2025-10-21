@@ -5,3 +5,10 @@
 // Log myGreeting to the console
 
 
+let name = "Towhid"
+
+let greeting = "Have a Lovely Day "
+
+let myGreeting = greeting +  name + "!"
+
+alert(myGreeting)

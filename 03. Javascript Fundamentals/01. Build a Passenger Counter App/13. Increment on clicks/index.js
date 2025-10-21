@@ -10,5 +10,13 @@
 // change the count-el in the HTML to reflect the new count
 
 
+let count = 0 
+
+function increment(){
+    count++
+}
+increment()
+console.log(count);
+
 
 

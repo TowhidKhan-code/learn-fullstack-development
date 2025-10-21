@@ -39,5 +39,9 @@
     The real background is #f8f9fa but it is failing our contrast check. 
     So here's the background color we will use: #dfe1e5
     */
-    
+    background-color: #dfe1e5;
+    padding: 8px 16px ;
+    font-size: 14px;
+    border: none;
+    border-radius: 3px;
 }

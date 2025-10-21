@@ -1,6 +1,6 @@
 let myLeads = ["www.awesomelead.com"]
-
-
+//JSON.stringify // covert to string
+//JSON.parse // revert to array
 
 const inputEl = document.getElementById("input-el")
 const inputBtn = document.getElementById("input-btn")

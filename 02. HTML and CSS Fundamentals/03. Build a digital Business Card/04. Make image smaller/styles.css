@@ -2,7 +2,9 @@ body {
     margin: 20px;
 }
 
-
+.image{
+    width: 150px;
+}
 /*
 Challenge:
 Set the width of the image to 150px.

@@ -3,3 +3,13 @@
 // Log out at least two of the keys using the dot notation
 
 
+let airbnb = {
+    title : 'Live like a King in my castle',
+    price: 190,
+    isSuperHost: true,
+    images: ["img/castle1.png", "img/castle2.png"]
+}
+
+console.log(airbnb.isSuperHost);
+console.log(airbnb.title);
+

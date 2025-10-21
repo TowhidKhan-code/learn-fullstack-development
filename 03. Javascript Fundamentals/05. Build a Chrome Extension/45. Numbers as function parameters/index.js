@@ -1,4 +1,9 @@
 // Create a function, add(), that adds two numbers together and returns the sum
+function add(num1,num2){
+    let sum = 0;
+    sum = num1 + num2
+    return sum
+}
 
 
 

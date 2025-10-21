@@ -3,7 +3,7 @@ body {
 }
 
 .avatar {
-    width: 150px;
+    width: 100px;
 }
 
 .card {
@@ -12,8 +12,11 @@ body {
     Give the card a width of 400px wide and center it.
     */
     padding: 20px;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
     display: flex;
-    justify-content: space-around
+    justify-content: space-around;
 }
 
 .border-blue {

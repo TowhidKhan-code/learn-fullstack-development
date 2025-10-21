@@ -4,6 +4,10 @@ const inputBtn = document.getElementById("input-btn")
 const ulEl = document.getElementById("ul-el")
 
 // 1. Save a key-value pair in localStorage
+
+// console.log(localStorage.getItem("myLeads"))
+// localStorage.clear()
+
 // 2. Refresh the page. Get the value and log it to the console
 // 3. Clear localStorage
 

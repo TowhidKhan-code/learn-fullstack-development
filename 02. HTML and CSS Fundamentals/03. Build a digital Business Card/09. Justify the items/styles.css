@@ -3,12 +3,13 @@ body {
 }
 
 .avatar {
-    width: 150px;
+    width: 80px;
 }
 
 .card {
     padding: 20px;
     display: flex;
+    justify-content: space-around;
     /*
     Challenge:
     Add horizontal space around the flex children.
